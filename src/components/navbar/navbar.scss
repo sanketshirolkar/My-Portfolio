@@ -9,12 +9,12 @@
     top: 0;
     z-index: 2;
 
-    .wrapper{
+    .wrapper_nav{
         padding: 10px 30px;
         display: flex;
         align-items: center;
 
-        .left{
+        .left_nav{
             display: flex;
             align-items: center;
             .logo{
@@ -25,7 +25,7 @@
                 margin-right: 40px;
             }
 
-            .itemContainer{
+            .itemContainer_nav{
                 display: flex;
                 align-items: center;  
                 margin-left: 30px;
